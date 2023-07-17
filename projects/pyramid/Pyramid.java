@@ -17,6 +17,6 @@ public class Pyramid {
     }
 
     public static void main(String[] args) {
-        buildPyramid(45, " ", "^");
+        buildPyramid(10, " ", "^");
     }
 }
